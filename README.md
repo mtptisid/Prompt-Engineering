@@ -86,8 +86,8 @@ Specify what to avoid in the response to improve focus and relevance.
 3. **Chain-of-Thought**:
    - Prompt: "To plan a trip to Paris, list three steps and explain each one."
    - Purpose: Encourages structured, detailed reasoning.
-
+<!---
 ## Resources
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
 - [Anthropic's Prompt Engineering Tips](https://www.anthropic.com)
-- Blog posts and tutorials on prompt design from AI research communities.
+- Blog posts and tutorials on prompt design from AI research communities.--->
