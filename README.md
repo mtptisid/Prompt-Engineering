@@ -1,6 +1,6 @@
 # Prompt Engineering Techniques
 
-This README provides an overview of key prompt engineering techniques to effectively interact with AI language models like Grok. Prompt engineering involves crafting precise and clear inputs to elicit accurate, relevant, and useful responses from AI systems.
+This Repository provides an overview of key prompt engineering techniques to effectively interact with AI language models like ChatGPT, Gemini, Claude and Grok. Prompt engineering involves crafting precise and clear inputs to elicit accurate, relevant, and useful responses from AI systems.
 
 ## Table of Contents
 - [What is Prompt Engineering?](#what-is-prompt-engineering)
@@ -8,7 +8,7 @@ This README provides an overview of key prompt engineering techniques to effecti
   - [1. Clear and Specific Prompts](#1-clear-and-specific-prompts)
   - [2. Contextual Prompts](#2-contextual-prompts)
   - [3. Role-Based Prompts](#3-role-based-prompts)
-  - [4. Chain-of-Thought (CoT) Prompting](https://github.com/mtptisid/Prompt-Engineering/blob/master/accuracy_of_chain_of_thought_prompting.ipynb)
+  - [4. Chain-of-Thought (CoT) Prompting](#4-chain-of-though (cot))
   - [5. Few-Shot Prompting](#5-few-shot-prompting)
   - [6. Zero-Shot Prompting](#6-zero-shot-prompting)
   - [7. Instructional Prompts](#7-instructional-prompts)
@@ -37,6 +37,7 @@ Assign a specific role to the AI (e.g., teacher, expert, or assistant) to tailor
 ### 4. Chain-of-Thought (CoT) Prompting
 Encourage the AI to break down complex problems step-by-step to improve reasoning and accuracy.
 - **Example**: "Solve the equation 2x + 5 = 15. Show each step of your reasoning."
+- [open the notebokk](https://github.com/mtptisid/Prompt-Engineering/blob/master/accuracy_of_chain_of_thought_prompting.ipynb)
 
 ### 5. Few-Shot Prompting
 Provide a few examples of the desired input-output pairs to guide the AI's response.
