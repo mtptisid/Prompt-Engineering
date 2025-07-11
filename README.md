@@ -8,7 +8,7 @@ This Repository provides an overview of key prompt engineering techniques to eff
   - [1. Clear and Specific Prompts](#1-clear-and-specific-prompts)
   - [2. Contextual Prompts](#2-contextual-prompts)
   - [3. Role-Based Prompts](#3-role-based-prompts)
-  - [4. Chain-of-Thought (CoT) Prompting](#4-chain-of-though (cot))
+  - [4. Chain-of-Thought (CoT) Prompting](#4-chain-of-thought-(cot))
   - [5. Few-Shot Prompting](#5-few-shot-prompting)
   - [6. Zero-Shot Prompting](#6-zero-shot-prompting)
   - [7. Instructional Prompts](#7-instructional-prompts)
